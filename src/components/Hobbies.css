@@ -1,0 +1,44 @@
+.hobbies {
+  font-weight: bold;
+  font-size: large;
+  color: #0275d8;
+}
+.form input {
+  width: 250px;
+  border: 2px solid #aaa;
+  border-radius: 4px;
+  margin: 8px 0;
+  padding: 8px;
+  box-sizing: border-box;
+  font-size: medium;
+}
+.btn {
+  width: 50px;
+  padding: 10px;
+  background-color: #0275d8;
+  border: none;
+  border-radius: 8px;
+  font-weight: bold;
+  font-size: medium;
+  color: #fff;
+  margin: auto 5px;
+}
+.btn-del {
+  width: 70px;
+  padding: 10px;
+  background-color: #ff0000;
+  border: none;
+  border-radius: 8px;
+  font-weight: bold;
+  font-size: medium;
+  color: #fff;
+  margin: auto 5px;
+}
+.info p {
+  width: 200px;
+  text-align: center;
+  font-weight: 400;
+  font-size: 30px;
+  margin: auto;
+  color: rgba(0, 0, 0, 0.7);
+}
